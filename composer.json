@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/page_fields",
+	"name":        "kodicms_kohana/page_fields",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS page fields plugin",
 	"homepage":    "http://www.kodicms.ru/",
